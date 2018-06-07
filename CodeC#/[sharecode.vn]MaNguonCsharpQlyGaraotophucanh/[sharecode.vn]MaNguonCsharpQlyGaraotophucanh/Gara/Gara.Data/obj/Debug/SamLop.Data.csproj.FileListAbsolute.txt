@@ -1,0 +1,10 @@
+E:\doan\HUONG\SamLop\SamLop.Data\bin\Debug\SamLop.Data.dll
+E:\doan\HUONG\SamLop\SamLop.Data\bin\Debug\SamLop.Data.pdb
+E:\doan\HUONG\SamLop\SamLop.Data\obj\Debug\SamLop.Data.dll
+E:\doan\HUONG\SamLop\SamLop.Data\obj\Debug\SamLop.Data.pdb
+E:\doan\HUONG\SamLop\SamLop.Data\obj\Debug\SamLop.Data.csprojResolveAssemblyReference.cache
+D:\SamLop\SamLop.Data\bin\Debug\SamLop.Data.dll
+D:\SamLop\SamLop.Data\bin\Debug\SamLop.Data.pdb
+D:\SamLop\SamLop.Data\obj\Debug\SamLop.Data.dll
+D:\SamLop\SamLop.Data\obj\Debug\SamLop.Data.pdb
+D:\SamLop\SamLop.Data\obj\Debug\SamLop.Data.csprojResolveAssemblyReference.cache
